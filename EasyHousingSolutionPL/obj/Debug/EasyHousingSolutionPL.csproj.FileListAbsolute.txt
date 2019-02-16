@@ -1,0 +1,301 @@
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe.config
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CopyComplete
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe.config
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CopyComplete
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe.config
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CopyComplete
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe.config
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CopyComplete
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe.config
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.exe
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionPL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EHSException.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csprojAssemblyReference.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.g.cs
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL_MarkupCompile.lref
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\App.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\AddProperty.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Cart.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolution.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EditProperty.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Login.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Registration.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\Search.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\UploadImage.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\VerifyDeactivate.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewDeactivatedProperty.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewProperty.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByOwner.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewPropertyByRegion.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\ViewVerifiedProperty.baml
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.g.resources
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.Properties.Resources.resources
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.GenerateResource.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CoreCompileInputs.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.csproj.CopyComplete
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.exe
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionPL\obj\Debug\EasyHousingSolutionPL.pdb
