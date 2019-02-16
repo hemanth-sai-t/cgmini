@@ -1,0 +1,15 @@
+﻿<Application x:Class="EasyHousingSolutionPL.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:EasyHousingSolutionPL"
+             StartupUri="Login.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="TimesNewRoman"/>
+            <Setter Property="FontSize" Value="19"/>
+            <Setter Property="FontWeight" Value="12"/>
+        </Style>
+
+        <ImageBrush x:Key="Image" ImageSource="C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\Home.jpg"/> 
+    </Application.Resources>
+</Application>

@@ -1,0 +1,51 @@
+﻿<Window x:Class="EasyHousingSolutionPL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyHousingSolutionPL"
+        mc:Ignorable="d"
+        Title="Easy Housing Solution" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid  Background="{StaticResource Image}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="324*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="731*"/>
+        </Grid.ColumnDefinitions>
+        <Menu HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="792" Grid.ColumnSpan="2" >
+            <MenuItem Name="addMenu" Header="Add" Visibility="Collapsed" >
+                <MenuItem Header="Add Property" Visibility="Collapsed" Name="addSubmenu" Click="addSubmenu_Click"/>
+                <MenuItem Header="Upload Image" Visibility="Collapsed" Name="uploadImgSubmenu" Click="uploadImgSubmenu_Click" />
+            </MenuItem>
+            <MenuItem Name="editMenu" Header="Edit" Visibility="Collapsed" Click="editMenu_Click">
+            </MenuItem>
+            <MenuItem Name="viewMenu" Header="View" Visibility="Collapsed">
+                <MenuItem Header="Verified Property" Name="viewVerifiedSubmenu" Click="viewVerifiedSubmenu_Click" Visibility="Collapsed"/>
+                <MenuItem Header="De-Activated Property" Name="viewDeactSubmenu" Click="viewDeactSubmenu_Click" Visibility="Collapsed" />
+                <MenuItem Header="Property by Region" Name="viewRegionSubmenu" Click="viewRegionSubmenu_Click" Visibility="Collapsed" />
+                <MenuItem Header="Property by Owner" Name="viewOwnerSubmenu" Click="viewOwnerSubmenu_Click" Visibility="Collapsed" />
+                <MenuItem Header="Property Details" Name="viewDetailsSubmenu" Click="viewDetailsSubmenu_Click" Visibility="Collapsed" />
+            </MenuItem>
+            <MenuItem Name="searchMenu" Header="Search" Click="searchMenu_Click" Visibility="Collapsed">
+            </MenuItem>
+            <MenuItem Name="deleteMenu" Header="Delete" Click="deleteMenu_Click" Visibility="Collapsed">
+            </MenuItem>
+            <MenuItem Name="verifyMenu" Header="Verify" Click="verifyMenu_Click" Visibility="Collapsed">
+            </MenuItem>
+            <MenuItem  Header="Cart"  Name="cartMenu" Click="cartMenu_Click" Visibility="Collapsed">
+                <MenuItem.Icon>
+                    <Image Source="C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\download.png"/>
+                </MenuItem.Icon>
+            </MenuItem>
+        </Menu>
+        <TextBlock HorizontalAlignment="Left" Margin="585,48,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Grid.Column="1" RenderTransformOrigin="0.5,0.5" Width="113">
+            <Hyperlink NavigateUri="Login.xaml" Click="Hyperlink_Click">
+                Logout
+            </Hyperlink>
+        </TextBlock>
+    </Grid>
+
+</Window>

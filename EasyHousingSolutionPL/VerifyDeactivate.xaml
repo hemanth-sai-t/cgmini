@@ -1,0 +1,36 @@
+﻿<Window x:Class="EasyHousingSolutionPL.VerifyDeactivate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyHousingSolutionPL"
+        mc:Ignorable="d"
+        Title="VerifyDeactivate" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <Grid  Background="{StaticResource Image}" Height="450">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+            <Label Name="lblPropertyId" Width="170" Height="35" Content="Property Id :" Grid.Row="0" Grid.Column="0" Margin="171,53,55,62"></Label>
+            <TextBox Name="txtPropertyId" Grid.Row="0"  Grid.Column="1" Width="170" Height="35" Margin="31,53,195,62"></TextBox>
+
+            <Button Name="btnVerify" Content="Verify" Width="170" Height="35" Grid.Column="0" Click="btnVerify_Click" Margin="171,140,55,125" Grid.RowSpan="2"  />
+            <Button Name="btndeactivate" Content ="Deactivate" Width="170" Height="35" Grid.Column="1" Click="btndeactivate_Click" Margin="31,140,195,125" Grid.RowSpan="2"  />
+            <TextBlock HorizontalAlignment="Left" Margin="273,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Grid.Column="1" RenderTransformOrigin="0.5,0.5" Width="113">
+            <Hyperlink NavigateUri="Login.xaml" Click="Hyperlink_Click">
+                Logout
+            </Hyperlink>
+            </TextBlock>
+        </Grid>
+        <CheckBox Content="CheckBox"/>
+
+    </StackPanel>
+
+</Window>

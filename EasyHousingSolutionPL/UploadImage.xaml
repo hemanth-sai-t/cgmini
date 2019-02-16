@@ -1,0 +1,27 @@
+﻿<Window x:Class="EasyHousingSolutionPL.UploadImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyHousingSolutionPL"
+        mc:Ignorable="d"
+        Title="UploadImage" Height="275" Width="514">
+    <Grid  Background="{StaticResource Image}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="136*"/>
+            <ColumnDefinition Width="83*"/>
+            <ColumnDefinition Width="573*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnUpload" Content="Upload" HorizontalAlignment="Left" Margin="28,172,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Grid.ColumnSpan="2" Click="btnUpload_Click"/>
+        <TextBox x:Name="txtPropertyId" HorizontalAlignment="Left" Height="23" Margin="114,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="79,44,0,0" TextWrapping="Wrap" Text="Enter Property Id" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="txtImagePath" HorizontalAlignment="Left" Height="34" Margin="114,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="115,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:Name="btnBrowseImages" Content="Browse Images" HorizontalAlignment="Left" Margin="79,90,0,0" VerticalAlignment="Top" Width="139" Grid.ColumnSpan="3" Click="btnBrowseImages_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="289,21,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Grid.Column="2" RenderTransformOrigin="0.5,0.5" Width="56">
+            <Hyperlink NavigateUri="Login.xaml" Click="Hyperlink_Click">
+                Logout
+            </Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>
