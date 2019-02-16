@@ -1,0 +1,34 @@
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csprojAssemblyReference.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csprojAssemblyReference.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.csproj.CoreCompileInputs.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionEntity\obj\Debug\EasyHousingSolutionEntity.pdb

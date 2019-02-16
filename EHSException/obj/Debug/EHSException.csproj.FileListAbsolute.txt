@@ -1,0 +1,34 @@
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\obj\Debug\EHSException.csprojAssemblyReference.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csprojAssemblyReference.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\bin\Debug\EHSException.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csprojAssemblyReference.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.csproj.CoreCompileInputs.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EHSException\obj\Debug\EHSException.pdb

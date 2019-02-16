@@ -1,0 +1,78 @@
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\EasyHousingSolution\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\New folder (10)\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\Users\sastakal\Desktop\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\Users\przine\Desktop\project\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\kavijayk\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionBLL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionDAL.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EasyHousingSolutionEntity.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\bin\Debug\EHSException.pdb
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csprojAssemblyReference.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CoreCompileInputs.cache
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.csproj.CopyComplete
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.dll
+C:\Users\hsomarou\Desktop\Project\miniproject-EHS\v\EasyHousingSolution29\EasyHousingSolution\EasyHousingSolutionBLL\obj\Debug\EasyHousingSolutionBLL.pdb
